@@ -8,7 +8,7 @@ A Machine Learning-based web application that predicts the first innings score o
 * User-friendly web interface
 * Machine Learning model integration
 * Flask web application
-* Real-time prediction
+* Real-time predictions
 
 ## Technologies Used
 
